@@ -1,0 +1,3 @@
+<?php
+
+$PHPSESSID = "b4fd5ee3344f511ae0a4968d22c2588c";
